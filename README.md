@@ -1,7 +1,7 @@
-to jest plik 
+ 
 ucze się tutaj
 chciałabym wiedzieć więcej
-swieci slonce
+swieci ksiezyc
 
 jestem w drugiej części zadania
-
+juz trzecia czesc
